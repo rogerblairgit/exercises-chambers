@@ -1,0 +1,15 @@
+C:\DEV\DMS.Api\DMS.Infrastructure\bin\Debug\net5.0\DMS.Infrastructure.deps.json
+C:\DEV\DMS.Api\DMS.Infrastructure\bin\Debug\net5.0\DMS.Infrastructure.dll
+C:\DEV\DMS.Api\DMS.Infrastructure\bin\Debug\net5.0\ref\DMS.Infrastructure.dll
+C:\DEV\DMS.Api\DMS.Infrastructure\bin\Debug\net5.0\DMS.Infrastructure.pdb
+C:\DEV\DMS.Api\DMS.Infrastructure\bin\Debug\net5.0\DMS.Domain.dll
+C:\DEV\DMS.Api\DMS.Infrastructure\bin\Debug\net5.0\DMS.Domain.pdb
+C:\DEV\DMS.Api\DMS.Infrastructure\obj\Debug\net5.0\DMS.Infrastructure.csprojAssemblyReference.cache
+C:\DEV\DMS.Api\DMS.Infrastructure\obj\Debug\net5.0\DMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\DMS.Api\DMS.Infrastructure\obj\Debug\net5.0\DMS.Infrastructure.AssemblyInfoInputs.cache
+C:\DEV\DMS.Api\DMS.Infrastructure\obj\Debug\net5.0\DMS.Infrastructure.AssemblyInfo.cs
+C:\DEV\DMS.Api\DMS.Infrastructure\obj\Debug\net5.0\DMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DEV\DMS.Api\DMS.Infrastructure\obj\Debug\net5.0\DMS.Infrastructure.csproj.CopyComplete
+C:\DEV\DMS.Api\DMS.Infrastructure\obj\Debug\net5.0\DMS.Infrastructure.dll
+C:\DEV\DMS.Api\DMS.Infrastructure\obj\Debug\net5.0\ref\DMS.Infrastructure.dll
+C:\DEV\DMS.Api\DMS.Infrastructure\obj\Debug\net5.0\DMS.Infrastructure.pdb

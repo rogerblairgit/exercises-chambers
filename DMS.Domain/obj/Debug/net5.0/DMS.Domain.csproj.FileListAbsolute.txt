@@ -1,0 +1,12 @@
+C:\DEV\DMS.Api\DMS.Domain\bin\Debug\net5.0\DMS.Domain.deps.json
+C:\DEV\DMS.Api\DMS.Domain\bin\Debug\net5.0\DMS.Domain.dll
+C:\DEV\DMS.Api\DMS.Domain\bin\Debug\net5.0\ref\DMS.Domain.dll
+C:\DEV\DMS.Api\DMS.Domain\bin\Debug\net5.0\DMS.Domain.pdb
+C:\DEV\DMS.Api\DMS.Domain\obj\Debug\net5.0\DMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\DMS.Api\DMS.Domain\obj\Debug\net5.0\DMS.Domain.AssemblyInfoInputs.cache
+C:\DEV\DMS.Api\DMS.Domain\obj\Debug\net5.0\DMS.Domain.AssemblyInfo.cs
+C:\DEV\DMS.Api\DMS.Domain\obj\Debug\net5.0\DMS.Domain.csproj.CoreCompileInputs.cache
+C:\DEV\DMS.Api\DMS.Domain\obj\Debug\net5.0\DMS.Domain.dll
+C:\DEV\DMS.Api\DMS.Domain\obj\Debug\net5.0\ref\DMS.Domain.dll
+C:\DEV\DMS.Api\DMS.Domain\obj\Debug\net5.0\DMS.Domain.pdb
+C:\DEV\DMS.Api\DMS.Domain\obj\Debug\net5.0\DMS.Domain.csprojAssemblyReference.cache
